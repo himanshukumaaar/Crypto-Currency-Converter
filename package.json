@@ -1,0 +1,12 @@
+{
+  "name": "crypto-dashboard",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "serve public -p 5173",
+    "start": "serve public -p 8080"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
